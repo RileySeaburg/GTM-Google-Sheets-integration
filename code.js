@@ -62,3 +62,4 @@ return ContentService
 lock.releaseLock();
 }
 }
+//All credit goes to http://www.ganotes.com/pass-dynamic-data-to-google-sheets-using-google-tag-manager/
